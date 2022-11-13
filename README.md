@@ -7,6 +7,9 @@ To run this app you need to setup your own Firebase connection using goggle-serv
 
 User: q@q.com 123456 und w@w.com 123456
 
+in Firebase console use project FirebaseChatOwnDatabase
+
+
 Introduction
 ------------
 
